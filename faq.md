@@ -1,5 +1,7 @@
 ## FAQ
 
+This document contains answers to some of the most frequently asked questions regarding this repository.
+
 Most frequently asked questions.
 
 ### What is the purpose of repository?
